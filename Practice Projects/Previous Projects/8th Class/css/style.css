@@ -1,0 +1,657 @@
+/*Author
+
+Name : Md.Adib Khan 
+Email:adibb0506@gmail.com
+*/
+
+
+/*=======INDEX======
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+
+*/
+/*Global Css*/
+
+body{
+	font-family: 'Roboto Slab', serif;
+}
+h1{
+
+margin-top: -70px;
+
+text-align: center;
+
+margin-bottom: 70px;
+
+font-size: 29px;
+}
+
+h2{color: black;text-align: center;margin-top: 35px;font-size: 28px;}
+h3{
+
+margin-bottom: 25px;
+
+margin-top: 20px;
+}
+h4{
+    color: #fff!important;
+    font-weight: 300;
+    padding-bottom: 80px;
+    text-align: center;
+}
+h6{
+    text-align: justify;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+p{
+    color: #fff!important;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 75px;
+    }
+.img-center{
+
+padding-left: 105px;
+
+margin-bottom: 40px;
+}
+.btn-one{
+
+margin: 0 auto;
+
+background-color: #fff;
+
+padding: 8px 40px;
+
+border: none;
+
+border-radius: 20px;
+
+color: #612316;
+
+margin-left: 490px;
+
+transition: 0.6s ease;
+}
+.btn-one:hover{
+	background-color: #da5718;
+	color: #fff;
+}
+.no-padding{
+	padding: 0px;
+}
+
+/*header section starts*/
+header{
+
+
+}
+.nav-head{
+	background-color: #EEEFF1!important;
+	padding: 30px 0px;
+}
+.nav-link{
+	color: #46484C!important;
+    font-family: roboto slab;
+    font-weight: 300;
+}
+.nav-item{
+	padding-left: 30px;
+}
+
+.nav-link.js-scroll-trigger.active{
+	background-color: #DD4B2B;
+    color: #fff!important;
+    border-radius: 22px;
+    padding: 8px 30px;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgb(0, 0, 0);
+}
+/*header section end*/
+/*hero section*/
+.hero{
+	background: url(../img/bannermain.jpg )no-repeat;
+	background-size: contain;
+	margin-top: 55px;
+}
+
+.first-text{
+    font-size: 70px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 175px;
+    text-align: center;
+}
+.h2white{
+	color: #fff;
+	text-align: center;
+	margin-top: 0px;
+	font-size: 35px;
+}
+
+/*hero section end*/
+/*section one starts*/
+.s-one{
+	background-color: #EDEFF1;
+	margin-top: -109px;
+}
+.h1center{
+
+}
+.content-center{
+
+}
+.btn-two{border: none;background-color: #fff;border-radius: 25px;font-weight: 300;color: darkred;padding: 11px 40px;font-size: 14px;margin-left: 100px; transition: 0.6s ease;}
+.btn-two:hover{
+	background-color: #8c8888b8;
+	color: #fff;
+}
+.img-two{
+
+}
+.pblack{
+	color: black!important;
+	font-size: 13px;
+	text-align: center;
+}
+/*section one end*/
+/*section two start*/
+.s-two{
+	background: url(../img/burger2.jpg )no-repeat;
+	background-size: contain;
+
+}
+.text-center{
+
+margin-top: -160px;
+}
+.h2again{
+	
+color: #fff;
+	
+font-size: 30px;
+}
+.pagain{
+
+font-weight: 300;
+
+margin-bottom: 28px;
+}
+.form-control{
+
+border: none;
+
+background-color: #f1f8ff6e;
+
+border-radius: 22px;
+
+padding: 23px 20px;
+
+position: absolute;
+}
+.btn-three{
+
+border: none;
+
+border-radius: 22px;
+
+background-color: #fff;
+
+color: darkred;
+
+padding: 11px 45px;
+
+position: relative;
+
+margin-left: 421px;
+
+transition: 0.6s ease;
+}
+.btn-three:hover{
+	background-color: #0000006b;
+	color: #fff;
+}
+/*section two end*/
+/*section three start*/
+.s-three{
+
+margin-top: -238px;
+}
+.sd-three{padding: 35px;padding-top: 75px;}
+.h2s-three{
+
+}
+.pps-three{
+	color: black!important;
+	text-align: justify;
+	font-weight: 300;
+}
+.btn-four{
+    background-color: #DD4B2B;
+    color: #fff;
+    border: none;
+    padding: 7px 40px;
+    border-radius: 25px;
+    margin-bottom: 115px;
+    transition: 0.6s ease;
+}
+.btn-four:hover{
+	background-color: #4B4E73;
+}
+.btn-five{
+
+background-color: #4B4E73;
+
+color: #fff;
+
+border: none;
+
+padding: 7px 40px;
+
+border-radius: 25px;
+
+margin-bottom: 115px;
+
+transition: 0.6s ease;
+}
+.btn-five:hover{
+	background-color: #DD4B2B;
+}
+.img-three
+{
+
+}
+/*section three end*/
+/*section four start*/
+.s-four{
+	background-color: #D75D0E;
+	margin-top: -54px;
+}
+.list-work{
+
+}
+
+.list-work ul{
+	
+}
+.list-work li{
+	list-style: none;
+    text-align: center;
+    padding: 6px;
+    color: #fff;
+}
+/*section four end*/
+/*footer section*/
+.s-five{
+    background: url(../img/burger2.jpg )no-repeat;
+	background-size: cover;
+}
+.h3-work{
+	font-size: 20px;
+    font-weight: 300;
+    padding: 60px;
+}
+
+
+/*footer section end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*......|..................................................|.......
+/*......|..................................................|.......*/
+/*......|..................................................|.......*/
+
+	/*Media query*/
+
+/*Movile device*/
+@media (min-width: 0px) and (max-width: 500px) {
+
+/*faltu section start*/
+h1{
+
+margin-top: -70px;
+
+text-align: center;
+
+margin-bottom: 70px;
+
+font-size: 29px;
+}
+
+h2{color: black;text-align: center;margin-top: 35px;font-size: 28px;}
+h3{
+
+margin-bottom: 25px;
+
+margin-top: 20px;
+}
+h4{
+    color: #fff!important;
+    font-weight: 300;
+    padding-bottom: 90px;
+    text-align: center;
+    font-size: 15px;
+}
+h6{
+    text-align: justify;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+p{
+    color: #312c2c!important;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 15px;
+    }
+.img-center{
+
+padding-left: 100px;
+
+margin-bottom: 0px;
+
+margin-top: 13px;
+}
+.btn-one{
+
+margin: 0 auto;
+
+background-color: #00000069;
+
+padding: 8px 40px;
+
+border: none;
+
+border-radius: 20px;
+
+color: #ffffff;
+
+}
+
+.no-padding{
+	padding: 0px;
+}
+/*faltu section*/
+
+/*Mobile-header section starts*/
+header{
+
+
+}
+.nav-head{
+    background-color: #EEEFF1!important;
+    padding: 12px 22px;
+    width: 100%;
+}
+.nav-link{
+	color: #46484C!important;
+    font-family: roboto slab;
+    font-weight: 300;
+}
+.nav-item{
+	padding-left: 30px;
+}
+
+.nav-link.js-scroll-trigger.active{
+	background-color: #DD4B2B;
+    color: #fff!important;
+    border-radius: 22px;
+    padding: 8px 30px;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgb(0, 0, 0);
+}
+/*Mobile-header section end*/
+/*Mobile-hero section*/
+.hero{
+	background: url(../img/bannermain.jpg )no-repeat;
+	background-size: contain;
+	margin-top: 87px;
+}
+
+.first-text{
+    font-size: 23px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: -51px;
+    text-align: center;
+}
+.h2white{
+    color: #000;
+    text-align: center;
+    margin-top: 2px;
+    font-size: 35px;
+}
+
+/*Mobile-hero section end*/
+/*Mobile-section one starts*/
+.s-one{
+	background-color: #EDEFF1;
+}
+.h1center{
+
+margin-top: -111px;
+}
+.content-center{
+
+}
+.btn-two{border: none;background-color: #fff;border-radius: 25px;font-weight: 300;color: darkred;padding: 11px 40px;font-size: 14px;margin-bottom: 10px;}
+	
+
+.img-two{padding: 18px;}
+.pblack{
+	color: black!important;
+	font-size: 13px;
+	text-align: center;
+}
+/*Mobile-section one end*/
+/*Mobile-section two start*/
+.s-two{
+	background: url(../img/burger2.jpg )no-repeat;
+	background-size: cover;
+	margin-top: -67px;
+	height: 385px;
+
+}
+.text-center{
+
+margin-top: -160px;
+}
+.h2again{
+	
+color: #fff;
+	
+font-size: 30px;
+	
+margin-top: 45px;
+}
+.pagain{
+
+font-weight: 300;
+
+margin-bottom: 28px;
+
+color: #fff!important;
+}
+.form-control{
+
+border: none;
+
+background-color: #f1f8ff6e;
+
+border-radius: 22px;
+
+padding: 21px 20px;
+
+position: absolute;
+
+width: 90%;
+}
+.btn-three{
+
+border: none;
+
+border-radius: 22px;
+
+background-color: #fff;
+
+color: darkred;
+
+padding: 9px 38px;
+
+position: relative;
+
+margin: 0 auto;
+
+margin-top: 55px;
+
+}
+
+
+/*Mobile-section two end*/
+/*Mobile-section three start*/
+.s-three{
+}
+.sd-three{padding: 53px;margin-top: 50px;}
+.h2s-three{
+
+}
+.pps-three{
+	color: black!important;
+	text-align: justify;
+	font-weight: 300;
+}
+.btn-four{
+    background-color: #DD4B2B;
+    color: #fff;
+    border: none;
+    padding: 7px 40px;
+    border-radius: 25px;
+    margin-bottom: 35px;
+}
+
+.btn-five{
+
+background-color: #4B4E73;
+
+color: #fff;
+
+border: none;
+
+padding: 7px 40px;
+
+border-radius: 25px;
+
+margin-bottom: -7px;
+
+}
+
+.img-three
+{
+
+}
+/*Mobile-section three end*/
+/*Mobile-section four start*/
+.s-four{
+	background-color: #D75D0E;
+	margin-top: -135px;
+}
+.list-work{
+
+}
+
+.list-work ul{
+	
+margin-right: 25px;
+}
+.list-work li{
+	list-style: none;
+    text-align: center;
+    padding: 6px;
+    color: #fff;
+}
+/*Mobile-section four end*/
+/*Mobile-footer section*/
+.s-five{
+    background: url(../img/burger2.jpg )no-repeat;
+    background-size: cover;
+    margin-top: -100px;
+}
+.h3-work{
+	font-size: 13px;
+	font-weight: 300;
+	padding: 1px;
+}
+
+
+/*Mobile-footer section end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.......*/
+}
+/*Movile device closed*/
+
+/*small device*/
+
+@media (min-width: 500.01px) and (max-width: 768px) {
+
+}
+/*small device end*/
+
+
+/*medium device*/
+@media (min-width: 768.01px) and (max-width: 1200px) {
+
+}
+/*medium device end*/
+
+/*large device*/
+@media (min-width: 678.01px) {
+
+}
+/*large device end*/
+
