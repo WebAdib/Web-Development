@@ -1,0 +1,58 @@
+* {
+	margin: 0px;
+}
+
+body
+{
+	background: url(../pic/wood3.jpg) no-repeat;
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.container
+{
+	width: 645px;
+	margin: 15% auto;
+	
+}
+
+
+.signup-section{
+	background-color:#F5DA81;
+	    padding: 40px;
+}
+
+.signup-section h2{
+	text-align: center;
+    font-size: 32px;
+
+}
+
+.form-control{
+	width: 97%;
+    height: 30px;
+    padding: 5px;
+    margin-bottom: 13px;
+
+}
+
+.btn{
+	background-color:#DF0101;
+    padding: 5px 16px;
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+    text-transform: uppercase;
+    border: none;
+    transition: 0.9s ease;
+    -webkit-transition: 0.9s ease;
+    -moz-transition: 0.9s ease;
+    -o-transition: 0.9s ease;
+        /*box-shadow: 2px 3px 6px;*/
+
+}
+
+.btn:hover{
+	box-shadow: 4px 4px 6px;
+}
