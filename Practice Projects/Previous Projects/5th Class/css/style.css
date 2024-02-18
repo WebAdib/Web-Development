@@ -1,0 +1,367 @@
+/*Global css*/
+*{
+	margin: 0px;
+	
+	
+}
+body{
+	
+	font-family: 'Lato', sans-serif;
+	background-color: #F5F9FA;
+}
+.container{
+   width: 1140px;
+   margin: 0 auto;
+ }
+
+
+ .logo img{
+
+margin: 32px;
+
+}
+/*banner section starts*/
+ .banner{
+ 	width: 100%;
+ 	float: left;
+ 	background: url(../img/banner3.jpg) no-repeat;
+ 	background-size: cover;
+ 	height: 770px;
+ }
+ .banner-top{
+
+text-align: center;
+
+padding-top: 205px;
+
+
+}
+  .banner-top h2{
+ font-size: 119px;
+ color: white;
+ font-weight: 600;
+ }
+
+.divider{
+ 	
+border-bottom: 2px solid;
+ 	
+display: block;
+ 	
+width: 45%;
+ 	
+color: #00a3c7;
+ 	
+margin: 0 auto;
+ }
+  .banner-top p{
+ 	 
+font-size: 17px;
+ 	 
+color: white;
+ 	 
+font-weight: 300;
+ 	 
+margin: 20px;
+ }
+ .btn{
+ 	
+margin: 3%;
+ 	
+background-color: transparent;
+ 	
+color: white;
+ 	
+padding: 8px 16px;
+ 	
+border: 1px solid #00a3c7;
+transition: 0.6s ease;
+ }
+.btn:hover{
+    background-color: #00000091;
+} 
+ .icon{
+
+display: block;
+
+margin-top: 87px;
+
+}
+ .fa.fa-chevron-down{
+
+color: white;
+
+padding: 51px;
+
+margin: 0 auto;
+}
+/*banner section end*/
+.design{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.design h2{
+
+margin-top: 81px;
+
+color: #2D3951;
+
+font-size: 35px;
+}
+.design p{
+
+margin-top: 32px;
+
+color: #A2A2A2;
+
+margin-bottom: 110px;
+
+font-size: 20px;
+}
+/*section 4 starts*/
+.feature{
+	width: 100%;
+	float: left;
+	background-color: white;
+	text-align: center;
+}
+.mobile-icon{
+	width: 28%;
+	float: left;
+	padding: 27px;
+	color: #fff;
+}
+.mobile-icon h2{
+
+color: #4E576B;
+}
+.mobile-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 60px;
+}
+.paperplane-icon{
+	width: 28%;
+	float: left;
+	padding: 27px;
+	color: #fff;
+}
+.paperplane-icon h2{
+
+color: #4E576B;
+}
+.paperplane-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 60px;
+}
+.mike-icon{
+	width: 28%;
+	float: left;
+	padding: 27px;
+	color: #fff;
+}
+.mike-icon h2{
+	
+color: #4E576B;
+}
+.mike-icon p{
+	
+color: #A7A7A7;
+	
+margin-top: 10px;
+	
+margin-bottom: 60px;
+}
+.fa.fa-mobile{
+
+background-color: #48BAFF;
+
+padding: 17px;
+
+font-size: 46px;
+
+margin-bottom: 25px;
+}
+.fa.fa-paper-plane{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+.fa.fa-bullhorn{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+/*hfgbkutvcryyk*/
+.portfolio{
+	width: 100%;
+	float: left;
+}
+.picture{
+	width: 28%;
+	float: left;
+	padding: 7px 29px;
+	
+}
+
+.text h2{
+
+text-align: center;
+
+margin-top: 80px;
+
+font-size: 30px;
+
+color: #2D3952;
+}
+.text p{
+	
+text-align: center;
+	
+color: #ADB0AF;
+	
+margin-top: 10px;
+	
+margin-bottom: 60px;
+}
+/*hcvbgjth*/
+.form-pera{
+
+text-align: center;
+
+margin-top: 80px;
+
+color: #fff;
+}
+.form-pera h2{
+	
+font-size: 42px;
+	
+font-weight: 500;
+}
+.form-pera p{
+    margin-bottom: 30px;
+    font-weight: 300;
+    margin-top: 7px;
+}
+
+.form{
+	width: 100%;
+	float: left;
+	background: url(../img/formbg.jpg) no-repeat;
+	background-size: cover;
+	margin-top: 60px;
+}
+.contact-form{width: 515px;margin: 0 auto;}
+.form-control{
+    width: 95%;
+    height: 36px;
+    padding: 5px;
+    margin: 10px;
+    background-color: transparent;
+    border: 1px solid #A9A9A9;
+}
+.text-area{
+
+width: 94%;
+
+height: 130px;
+
+padding: 8px;
+
+margin: 10px;
+
+background-color: transparent;
+}
+.btn-two{margin: 3%;background-color: transparent;color: white;padding: 8px 26px;border: 1px solid #00a3c7;float: right;margin-right: 1px;
+transition: 0.6s ease;}
+.btn-two:hover{
+    background-color: #00000091;
+}
+
+/*kgvjuybgjkmloikj*/
+footer{
+	width: 100%;
+	float: left;
+	background-color: #fff;
+}
+.social-icon{
+	width: 35%;
+	background-color: #fff;
+	height: 63px;
+	float: right;
+	margin-top: 5px;
+}
+
+.social-icon ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 12px;
+    /* margin-top: 25px; */
+}
+
+.fa.fa-facebook{
+	background-color: #3B5998;
+    padding: 5px 7px;
+    color: #fff;
+    transition: 0.5s ease;
+
+}
+.fa.fa-facebook:hover{
+	background-color: #3B5998;
+	transform: rotate(360deg);
+}   
+.fa.fa-twitter{
+    background-color: #fff;
+    color: #1DA1F3;
+    transition: 0.5s ease;
+    font-size: 22px;
+}
+.fa.fa-twitter:hover{
+	background-color: #fff;
+	transform: rotate(360deg);
+
+}   
+.fa.fa-linkedin{
+    color: #0073B0;
+    font-size: 22px;
+    transition: 0.5s ease;
+}
+.fa.fa-linkedin:hover{
+	transform: rotate(360deg);
+
+}
+.fa.fa-google-plus{
+	color: red;
+    font-size: 22px;
+    transition: 0.5s ease;
+}
+.fa.fa-google-plus:hover{
+	transform: rotate(360deg);
+}
+.copyright{
+	width: 50%;
+	float: left;
+	margin-top: 15px;
+}
+.copyright p{
+
+}
