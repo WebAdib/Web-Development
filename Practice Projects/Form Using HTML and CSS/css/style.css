@@ -1,0 +1,53 @@
+body{
+    background-color: #9d77ee;
+    align-items: center;
+    font-family:sans-serif;
+}
+
+span{
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+}
+
+.hrClass{
+    width: 50%;
+    align-items: center;
+    background-color:#9d77ee;
+    height: 2px;
+}
+.mainContainer{
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    width: 640px;
+    margin: 100px auto;
+}
+.inputBox{
+    margin-bottom: 10px;
+}
+.inputBox input{
+    width: 100%;
+    height: 35px;
+    padding: 0px 10px 0px 10px;
+}
+
+.gender{
+    margin-bottom: 10px;
+}
+.interest{
+    margin-bottom: 10px;
+}
+
+Button{
+    width: 30%;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #9d77ee;
+    border: 2px solid;
+    border-color: #5b5959;
+    color: white;
+}
