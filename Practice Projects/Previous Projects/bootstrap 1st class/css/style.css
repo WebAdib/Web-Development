@@ -1,0 +1,800 @@
+/*Global css*/
+
+body{
+	
+	font-family: 'Lato', sans-serif;
+	background-color: #F5F9FA;
+	
+}
+}
+
+header{
+
+}
+.logo-center{
+
+}
+.logo img{margin: 32px;}
+
+/*banner section starts*/
+
+ .banner{
+ 	width: 100%;
+ 	float: left;
+ 	background: url(../img/banner3.jpg) no-repeat;
+ 	background-size: cover;
+ 	height: 770px;
+ }
+ .banner-top{
+
+text-align: center;
+
+padding-top: 205px;
+
+
+}
+  .banner-top h2{
+ font-size: 119px;
+ color: white;
+ font-weight: 600;
+ }
+
+.divider{
+ 	
+border-bottom: 2px solid;
+ 	
+display: block;
+ 	
+width: 45%;
+ 	
+color: #00a3c7;
+ 	
+margin: 0 auto;
+ }
+ .banner-top p{
+ 	 
+font-size: 17px;
+ 	 
+color: white;
+ 	 
+font-weight: 300;
+ 	 
+margin: 20px;
+ }
+ .btn{
+ 	
+margin: 3%;
+ 	
+background-color: transparent;
+ 	
+color: white;
+ 	
+padding: 8px 16px;
+ 	
+border: 1px solid #00a3c7;
+transition: 0.6s ease;
+ }
+.btn:hover{
+    background-color: #00000091;
+    color: #fff;
+} 
+ .icon{
+
+display: block;
+
+margin-top: 87px;
+
+}
+ .fa.fa-chevron-down{
+
+color: white;
+
+padding: 51px;
+
+margin: 0 auto;
+}
+
+/*banner section end*/
+/*section 3 starts*/
+.design{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.design h2{
+padding-top: 80px;
+
+color: #2D3951;
+
+font-size: 35px;
+}
+.design p{
+
+margin-top: 35px;
+
+color: #A2A2A2;
+
+padding-bottom: 110px;
+
+font-size: 20px;
+}
+/*section 3 end*/
+/*section 4 start*/
+.icon-center{
+	text-align: center;
+
+}
+.feature{
+	width: 100%;
+	float: left;
+	background-color: white;
+	text-align: center;
+}
+.mobile-icon{
+	width: 32%;
+	float: left;
+	color: #fff;
+	margin-top: 65px;
+	padding-left: 45px;
+}
+.mobile-icon h2{
+
+color: #4E576B;
+
+font-size: 22px;
+}
+.mobile-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 60px;
+
+font-size: 12px;
+}
+.paperplane-icon{
+	width: 32%;
+	float: left;
+	color: #fff;
+	margin-top: 65px;
+	padding-left: 45px;
+}
+.paperplane-icon h2{
+
+color: #4E576B;
+
+font-size: 22px;
+}
+.paperplane-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 60px;
+
+font-size: 12px;
+}
+.mike-icon{
+	padding-left: 45px;
+	width: 32%;
+	float: left;
+	color: #fff;
+	margin-top: 65px;
+}
+.mike-icon h2{
+	
+color: #4E576B;
+	
+font-size: 22px;
+}
+.mike-icon p{
+	
+color: #A7A7A7;
+	
+margin-top: 10px;
+	
+margin-bottom: 60px;
+	
+font-size: 12px;
+}
+.icon3{}
+.fa.fa-mobile{
+
+background-color: #48BAFF;
+
+padding: 17px;
+
+font-size: 46px;
+
+margin-bottom: 25px;
+}
+.fa.fa-paper-plane{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+.fa.fa-bullhorn{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+/*section 4 end*/
+/*section 5 starts*/
+.portfolio{
+	width: 100%;
+	float: left;
+	
+}
+.text h2{
+
+text-align: center;
+
+margin-top: 80px;
+
+font-size: 30px;
+
+color: #2D3952;
+}
+.text p{
+	
+text-align: center;
+	
+color: #ADB0AF;
+	
+margin-top: 10px;
+	
+margin-bottom: 70px;
+	
+}
+.picture-margin{
+	margin-bottom: 25px;
+}
+/*section 5 end*/
+/*section 6 starts*/
+.form{
+	width: 100%;
+	float: left;
+	background: url(../img/formbg.jpg) no-repeat;
+	background-size: cover;
+	margin-top: 60px;
+}
+.form-pera{
+
+text-align: center;
+
+margin-top: 80px;
+
+color: #fff;
+}
+.form-pera h2{
+	
+font-size: 42px;
+	
+font-weight: 500;
+}
+.form-pera p{
+    margin-bottom: 30px;
+    font-weight: 300;
+    margin-top: 7px;
+    color: beige;
+}
+
+
+.contact-form{width: 515px;margin: 0 auto;}
+.form-control{
+    width: 95%;
+    height: 36px;
+    padding: 5px;
+    margin: 10px;
+    background-color: transparent;
+    border: 1px solid #A9A9A9;
+}
+.text-area{
+
+width: 95%;
+
+padding: 8px;
+
+margin: 10px;
+
+background-color: transparent;
+
+border-radius: 5px;
+
+height: 200px;
+}
+.btn-two{margin: 3%;background-color: transparent;color: white;padding: 7px 50px;border: 1px solid #00a3c7;float: right;margin-right: 15px;transition: 0.6s ease;border-radius: 4px;}
+.btn-two:hover{
+    background-color: #00000091;
+}
+/*section 6 end*/
+footer{
+	width: 100%;
+	float: left;
+}
+.copyright{
+
+width: 50%;
+
+float: left;
+}
+.copyright p{
+    margin-top: 35px;
+}
+.social-icon{width: 50%;float: right;padding-left: 260px;}
+.social-icon ul{
+
+}
+.social-icon ul li {
+
+display: inline-block;
+
+margin-left: 5px;
+
+background-color: #15A3F9;
+
+padding: 10px;
+
+color: #fff;
+
+border-radius: 3px;
+
+margin-top: 22px;
+}
+.social-icon ul li i{
+
+}
+.fa.fa-facebook{
+
+font-size: 21px;
+
+padding: 0px 5px 0px 5px;
+
+transition: 0.6s ease;
+}
+.fa.fa-facebook:hover{
+	padding: 10px;
+}   
+.fa.fa-twitter{
+
+font-size: 20px;
+
+padding: 0px 1px 0px 1px;
+
+transition: 0.6s ease;
+}
+.fa.fa-twitter:hover{
+    padding: 10px;
+}   
+.fa.fa-linkedin{
+
+font-size: 21px;
+
+padding: 0px 2px 0px 2px;
+
+transition: 0.6s ease;
+}
+.fa.fa-linkedin:hover{padding: 10px;}
+.fa.fa-google-plus{font-size: 18px;transition: 0.6s ease;}
+.fa.fa-google-plus:hover{padding: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*......|..................................................|.......*/
+/*......|..................................................|.......*/
+/*......|..................................................|.......*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media query*/
+
+/*Movile device*/
+@media (min-width: 0px) and (max-width: 500px) {
+/*Mobile-logo img*/
+.logo-center{
+	text-align: center;
+}
+/*Mobile-logo img end*/
+/*Mobile-banner section starts*/
+.banner{
+ 	width: 100%;
+	float: left;
+ 	background: url(../img/banner3.jpg) no-repeat;
+ 	background-size: cover;
+ 	height: 300px;
+ }
+ .banner-top{
+
+text-align: center;
+
+padding-top: 60px;
+
+
+}
+  .banner-top h2{
+ font-size: 50px;
+ color: white;
+ font-weight: 600;
+ }
+
+.divider{
+ 	
+border-bottom: 2px solid;
+ 	
+display: block;
+ 	
+width: 68%;
+ 	
+color: #00a3c7;
+ 	
+margin: 0 auto;
+ }
+ .banner-top p{
+ 	 
+font-size: 13px;
+ 	 
+color: white;
+ 	 
+font-weight: 300;
+ 	 
+margin: 9px;
+ }
+ .btn{
+ 	
+margin: 1%;
+ 	
+background-color: transparent;
+ 	
+color: white;
+ 	
+padding: 6px 4px;
+ 	
+border: 1px solid #00a3c7;
+ 	
+transition: 0.6s ease;
+ 	
+font-size: 12px;
+ 	
+margin-top: 18px;
+ }
+.btn:hover{
+    background-color: #00000091;
+    color: #fff;
+} 
+ .icon{
+
+display: block;
+
+margin-top: 27px;
+}
+ .fa.fa-chevron-down{
+
+color: white;
+
+padding: 10px;
+
+margin: 0 auto;
+}
+/*Mobile-banner section end*/
+/*Mobile-section 3 starts*/
+.design{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.design h2{
+padding-top: 35px;
+
+color: #2D3951;
+
+font-size: 23px;
+}
+.design p{
+
+margin-top: 15px;
+
+color: #A2A2A2;
+
+padding-bottom: 25px;
+
+font-size: 12px;
+}
+
+/*Mobile-section 3 end*/
+
+
+/*Mobile-section 4 start*/
+.icon-center{
+	 text-align: -webkit-center;
+    margin-left: 9px;
+}
+.feature{
+	width: 100%;
+	float: left;
+	background-color: white;
+	/* text-align: center; */
+}
+.mobile-icon{
+	width: 100%;
+	float: left;
+	color: #fff;
+	margin-left: -25px;
+	margin-top: 25px;
+}
+.mobile-icon h2{
+
+color: #4E576B;
+
+font-size: 22px;
+}
+.mobile-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 20px;
+
+font-size: 13px;
+}
+.paperplane-icon{
+	width: 100%;
+	float: left;
+	color: #fff;
+	margin-top: 25px;
+	margin-left: -25px;
+}
+.paperplane-icon h2{
+
+color: #4E576B;
+
+font-size: 22px;
+}
+.paperplane-icon p{
+
+color: #A7A7A7;
+
+margin-top: 10px;
+
+margin-bottom: 20px;
+
+font-size: 13px;
+}
+.mike-icon{
+	width: 100%;
+	float: left;
+	color: #fff;
+	margin-top: 25px;
+	margin-left: -25px;
+}
+.mike-icon h2{
+	
+color: #4E576B;
+	
+font-size: 22px;
+}
+.mike-icon p{
+	
+color: #A7A7A7;
+	
+margin-top: 10px;
+	
+margin-bottom: 20px;
+	
+font-size: 13px;
+}
+.icon3{
+padding-left: 10px;
+}
+.fa.fa-mobile{
+
+background-color: #48BAFF;
+
+padding: 17px;
+
+font-size: 46px;
+
+margin-bottom: 25px;
+}
+.fa.fa-paper-plane{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+.fa.fa-bullhorn{
+
+background-color: #48BAFF;
+
+padding: 24px 11px;
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+/*Mobile-section 4 end*/
+/*Mobile-section 6 starts*/
+.form{
+	width: 100%;
+	float: left;
+	background: url(../img/formbg.jpg) no-repeat;
+	background-size: cover;
+	margin-top: 10px;
+	text-align: center;
+}
+.form-pera{
+
+text-align: center;
+
+margin-top: 15px;
+
+color: #fff;
+}
+.form-pera h2{
+	
+font-size: 33px;
+	
+font-weight: 700;
+}
+.form-pera p{font-size: 12px;padding-bottom: 8px;}
+
+
+.contact-form{width: auto;margin: 0 auto;text-align: center;}
+
+.form-control{
+    width: 92%;
+    border: 1px solid #A9A9A9;
+    font-size: 11px;
+}
+.text-area{width: 92%;height: 215px;font-size: 13px;}
+.btn-two{margin: 0%;background-color: transparent;color: white;padding: 3px 18px;border: 1px solid #00a3c7;float: right;margin-right: 10px;transition: 0.6s ease;border-radius: 4px;margin-bottom: 20px;font-size: 13px;}
+.btn-two:hover{
+    background-color: #00000091;
+}
+/*Mobile-section 6 end*/
+/*footer for mobile*/
+footer{
+	width: 100%;
+	float: left;
+}
+.copyright{
+
+width: 45%;
+
+float: left;
+}
+.copyright p{
+     
+font-size: 10px;
+     
+margin-top: 10px;
+}
+.social-icon{
+    width: 55%;
+    float: right;
+    padding-left: 0px;
+}
+.social-icon ul{
+
+}
+.social-icon ul li {
+
+display: inline-block;
+
+background-color: #15A3F9;
+
+padding: 0px;
+
+color: #fff;
+
+border-radius: 2px;
+
+margin-top: 10px;
+}
+.social-icon ul li i{
+
+}
+.fa.fa-facebook{
+
+padding: 0px 5px 0px 5px;
+
+font-size: 13px;
+}
+ 
+ 
+}   
+.fa.fa-twitter{
+
+padding: 0px 3px 0px 3px;
+
+font-size: 12px;
+}
+ 
+   
+}   
+.fa.fa-linkedin{
+
+padding: 0px 3px 0px 3px;
+font-size: 12px;
+}
+.fa.fa-google-plus{ 
+	font-size: 11px;
+	padding: 0px 1px 0px 1px;}
+
+
+
+
+
+
+
+
+
+
+/*........*/
+}
+/*Movile device closed*/
+
+
+
+/*small device*/
+@media (min-width: 500.01px) and (max-width: 768px) {
+/*small-device logo work*/
+.logo-center{
+	text-align: center;
+}
+/*small-device logo work end*/
+
+
+/*........*/
+}
+/*small device end*/
+
+
+/*medium device*/
+@media (min-width: 768.01px) and (max-width: 1200px) {
+.logo-center{
+	text-align: center;
+}
+/*medium device end*/
+
+/*large device*/
+@media (min-width: 678.01px) {
+
+}
+/*large device end*/
