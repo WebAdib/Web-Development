@@ -5,3 +5,8 @@ h1{
 h2{
     text-align: right;
 }
+p{
+    line-height: 0.5;
+    letter-spacing: 1px;
+    word-spacing: 15px;
+}
