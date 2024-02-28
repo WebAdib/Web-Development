@@ -16,3 +16,9 @@ ul li{
     background-color: aqua;
     color: red;
 }
+input[type="text"]{
+    color: white;
+}
+input[type]{
+    background-color: blue;
+}
