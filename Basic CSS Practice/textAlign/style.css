@@ -12,3 +12,7 @@ p{
     word-spacing: 15px;
     font-size: 18px;
 }
+ul li{
+    background-color: aqua;
+    color: red;
+}
