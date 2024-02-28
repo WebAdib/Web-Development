@@ -10,3 +10,9 @@ button:hover{
     background-color: green;
     color: white;
 }
+h1::first-letter{
+    color: black;
+}
+*::selection{
+    background-color: rgb(241, 241, 186);
+}
