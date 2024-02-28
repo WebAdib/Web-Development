@@ -2,3 +2,11 @@ h1{
     color: #ff0000;
     background-color: aqua;
 }
+button:hover{
+    background-color: #ff0000;
+    color: white;
+}
+.btnLogin:active{
+    background-color: green;
+    color: white;
+}
